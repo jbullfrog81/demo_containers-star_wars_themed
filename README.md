@@ -17,3 +17,14 @@ docker run -it nginx_starwars_babyyoda bash
 ```
 docker run -d -p 8080:80 nginx_starwars_babyyoda
 ```
+
+
+## Recommended References:
+### Docker Hub
+https://www.docker.com/products/docker-hub
+
+### Nginx admin guide
+https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-docker/
+
+### Amazon ECR with Docker
+https://docs.aws.amazon.com/AmazonECR/latest/userguide/getting-started-cli.html
